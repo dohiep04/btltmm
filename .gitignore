@@ -1,0 +1,12 @@
+# File thực thi
+*.exe
+*.out
+encrypt_app
+decrypt_app
+
+# File đối tượng
+*.o
+*.obj
+
+# File hệ thống
+.DS_Store
